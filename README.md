@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm LSSR</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A passionate learner from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **Python, Ruby, HTML, CSS, Java, C#.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Learning+Every+Day;Python+%7C+Java+%7C+Web+Dev;Loves+Simplicity+%26+Technology" alt="Typing animation" />
+</p>
+
+---- 
+
+🌱 I’m currently learning **Python, Ruby, HTML, CSS, Java, C#.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lssr32100](https://github.com/Lssr32100)
 
