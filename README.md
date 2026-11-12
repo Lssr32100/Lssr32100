@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Python, SQL, HTML, CSS, Java, Git.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lssr32100](https://github.com/Lssr32100)
+- 👨‍💻 My Portfolio are available at [https://lssr32100.github.io/Portfolio/](https://lssr32100.github.io/Portfolio/)
 
 - 📫 How to reach me **Lssr64@gmail.com**
 
